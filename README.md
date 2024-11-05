@@ -1120,3 +1120,4 @@
 <!-- Commit 452: docs: Update README with usage examples on 2026-03-23 13:48:31 -->
 <!-- Commit 453: test: Fix broken tests on 2026-03-25 09:53:00 -->
 <!-- Commit 1: refactor: Simplify conditional statements on 2024-11-04 09:40:27 -->
+<!-- Commit 2: fix: Correct off-by-one error in indexing on 2024-11-05 09:21:08 -->
