@@ -36,3 +36,4 @@
 <!-- Commit 6: docs: Clarify installation instructions on 2024-11-06 17:28:59 -->
 <!-- Commit 7: fix: Prevent potential race condition on 2024-11-06 11:44:11 -->
 <!-- Commit 8: style: Format code according to PEP8 on 2024-11-07 13:09:50 -->
+<!-- Commit 9: fix: Correct off-by-one error in indexing on 2024-11-07 10:01:16 -->
