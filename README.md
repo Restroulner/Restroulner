@@ -45,3 +45,4 @@
 <!-- Commit 17: style: Format code according to PEP8 on 2024-11-18 13:10:47 -->
 <!-- Commit 18: feat: Add support for new model architecture on 2024-11-18 14:40:51 -->
 <!-- Commit 19: feat: Add support for new model architecture on 2024-11-18 11:35:47 -->
+<!-- Commit 21: refactor: Extract common logic into helper function on 2024-11-22 16:37:32 -->
