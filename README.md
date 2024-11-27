@@ -775,3 +775,4 @@
 <!-- Commit 21: test: Add integration tests on 2024-11-25 10:19:09 -->
 <!-- Commit 22: style: Format code according to PEP8 on 2024-11-26 13:35:42 -->
 <!-- Commit 23: chore: Automate release process on 2024-11-27 09:35:34 -->
+<!-- Commit 24: fix: Correct off-by-one error in indexing on 2024-11-27 13:55:20 -->
