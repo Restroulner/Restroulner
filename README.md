@@ -414,3 +414,4 @@
 <!-- Commit 18: style: Format code according to PEP8 on 2024-11-25 09:32:00 -->
 <!-- Commit 19: refactor: Improve code readability and structure on 2024-11-25 09:07:48 -->
 <!-- Commit 21: docs: Add API documentation on 2024-11-27 09:23:09 -->
+<!-- Commit 22: docs: Clarify installation instructions on 2024-11-28 12:38:36 -->
