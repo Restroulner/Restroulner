@@ -777,3 +777,4 @@
 <!-- Commit 23: chore: Automate release process on 2024-11-27 09:35:34 -->
 <!-- Commit 24: fix: Correct off-by-one error in indexing on 2024-11-27 13:55:20 -->
 <!-- Commit 26: style: Clean up whitespace on 2024-12-02 17:42:44 -->
+<!-- Commit 27: docs: Update README with usage examples on 2024-12-03 13:24:59 -->
