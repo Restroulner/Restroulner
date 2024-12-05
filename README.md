@@ -780,3 +780,4 @@
 <!-- Commit 27: docs: Update README with usage examples on 2024-12-03 13:24:59 -->
 <!-- Commit 28: chore: Configure CI/CD pipeline on 2024-12-04 09:57:25 -->
 <!-- Commit 29: feat: Add support for new model architecture on 2024-12-04 09:48:58 -->
+<!-- Commit 31: fix: Handle edge cases in input validation on 2024-12-05 16:15:48 -->
