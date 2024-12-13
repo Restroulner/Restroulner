@@ -54,3 +54,4 @@
 <!-- Commit 28: style: Format code according to PEP8 on 2024-12-11 12:27:26 -->
 <!-- Commit 29: style: Adhere to linter rules on 2024-12-12 16:48:29 -->
 <!-- Commit 31: test: Fix broken tests on 2024-12-12 11:13:33 -->
+<!-- Commit 32: test: Add integration tests on 2024-12-13 11:42:27 -->
