@@ -1145,3 +1145,4 @@
 <!-- Commit 29: style: Adhere to linter rules on 2024-12-20 16:49:44 -->
 <!-- Commit 31: style: Clean up whitespace on 2024-12-24 11:03:00 -->
 <!-- Commit 32: test: Add integration tests on 2024-12-26 17:47:32 -->
+<!-- Commit 33: refactor: Extract common logic into helper function on 2024-12-26 11:15:55 -->
