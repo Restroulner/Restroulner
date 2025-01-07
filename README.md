@@ -439,3 +439,4 @@
 <!-- Commit 49: test: Improve test coverage on 2025-01-03 17:46:42 -->
 <!-- Commit 51: perf: Parallelize computation on 2025-01-06 13:19:27 -->
 <!-- Commit 52: feat: Implement new evaluation metric on 2025-01-07 14:57:26 -->
+<!-- Commit 53: docs: Update README with usage examples on 2025-01-07 09:14:31 -->
