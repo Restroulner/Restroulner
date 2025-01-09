@@ -74,3 +74,4 @@
 <!-- Commit 53: refactor: Extract common logic into helper function on 2025-01-03 11:05:45 -->
 <!-- Commit 54: feat: Implement new evaluation metric on 2025-01-03 13:35:54 -->
 <!-- Commit 56: refactor: Decouple modules on 2025-01-08 17:09:42 -->
+<!-- Commit 57: docs: Add API documentation on 2025-01-09 09:55:50 -->
