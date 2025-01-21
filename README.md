@@ -1161,3 +1161,4 @@
 <!-- Commit 49: chore: Automate release process on 2025-01-17 17:40:30 -->
 <!-- Commit 51: feat: Implement new evaluation metric on 2025-01-20 14:23:02 -->
 <!-- Commit 52: test: Add integration tests on 2025-01-20 09:50:43 -->
+<!-- Commit 53: fix: Correct off-by-one error in indexing on 2025-01-21 11:56:51 -->
