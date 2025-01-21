@@ -820,3 +820,4 @@
 <!-- Commit 77: perf: Optimize data loading performance on 2025-01-14 17:02:51 -->
 <!-- Commit 78: feat: Add new feature for data processing on 2025-01-16 14:59:59 -->
 <!-- Commit 79: docs: Update README with usage examples on 2025-01-17 13:57:06 -->
+<!-- Commit 81: docs: Clarify installation instructions on 2025-01-21 15:48:25 -->
