@@ -822,3 +822,4 @@
 <!-- Commit 79: docs: Update README with usage examples on 2025-01-17 13:57:06 -->
 <!-- Commit 81: docs: Clarify installation instructions on 2025-01-21 15:48:25 -->
 <!-- Commit 82: chore: Automate release process on 2025-01-22 15:59:51 -->
+<!-- Commit 83: test: Fix broken tests on 2025-01-22 14:49:55 -->
