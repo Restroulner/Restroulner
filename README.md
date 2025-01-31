@@ -94,3 +94,4 @@
 <!-- Commit 78: docs: Generate Sphinx documentation on 2025-01-29 09:08:11 -->
 <!-- Commit 79: chore: Automate release process on 2025-01-30 09:31:14 -->
 <!-- Commit 81: chore: Upgrade Python version on 2025-01-31 15:49:10 -->
+<!-- Commit 82: docs: Clarify installation instructions on 2025-01-31 15:02:54 -->
