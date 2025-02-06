@@ -464,3 +464,4 @@
 <!-- Commit 81: feat: Add new feature for data processing on 2025-02-05 10:25:06 -->
 <!-- Commit 82: docs: Generate Sphinx documentation on 2025-02-05 14:54:45 -->
 <!-- Commit 83: style: Clean up whitespace on 2025-02-05 16:09:27 -->
+<!-- Commit 84: docs: Clarify installation instructions on 2025-02-06 14:46:54 -->
