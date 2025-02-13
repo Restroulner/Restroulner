@@ -469,3 +469,4 @@
 <!-- Commit 87: docs: Update README with usage examples on 2025-02-10 17:22:21 -->
 <!-- Commit 88: chore: Configure CI/CD pipeline on 2025-02-12 13:49:50 -->
 <!-- Commit 89: refactor: Decouple modules on 2025-02-13 12:36:13 -->
+<!-- Commit 91: refactor: Simplify conditional statements on 2025-02-13 10:47:48 -->
