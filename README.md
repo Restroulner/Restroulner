@@ -475,3 +475,4 @@
 <!-- Commit 94: feat: Implement new evaluation metric on 2025-02-17 16:16:11 -->
 <!-- Commit 96: perf: Parallelize computation on 2025-02-17 17:43:18 -->
 <!-- Commit 97: refactor: Simplify conditional statements on 2025-02-17 16:24:34 -->
+<!-- Commit 98: docs: Clarify installation instructions on 2025-02-18 13:12:40 -->
