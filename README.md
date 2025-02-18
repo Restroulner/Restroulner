@@ -847,3 +847,4 @@
 <!-- Commit 111: test: Add integration tests on 2025-02-17 13:18:51 -->
 <!-- Commit 112: test: Improve test coverage on 2025-02-17 12:30:32 -->
 <!-- Commit 113: style: Adhere to linter rules on 2025-02-18 09:51:04 -->
+<!-- Commit 114: docs: Clarify installation instructions on 2025-02-18 10:44:35 -->
