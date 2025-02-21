@@ -108,3 +108,4 @@
 <!-- Commit 96: docs: Generate Sphinx documentation on 2025-02-19 13:12:31 -->
 <!-- Commit 97: docs: Update README with usage examples on 2025-02-19 17:59:03 -->
 <!-- Commit 98: chore: Update dependencies on 2025-02-20 16:42:56 -->
+<!-- Commit 99: style: Format code according to PEP8 on 2025-02-21 12:49:21 -->
