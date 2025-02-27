@@ -482,3 +482,4 @@
 <!-- Commit 103: refactor: Simplify conditional statements on 2025-02-27 16:11:37 -->
 <!-- Commit 104: fix: Resolve bug in model training loop on 2025-02-27 10:54:42 -->
 <!-- Commit 106: refactor: Improve code readability and structure on 2025-02-27 15:37:30 -->
+<!-- Commit 107: refactor: Extract common logic into helper function on 2025-02-27 11:29:36 -->
