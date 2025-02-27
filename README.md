@@ -481,3 +481,4 @@
 <!-- Commit 102: style: Format code according to PEP8 on 2025-02-26 10:24:38 -->
 <!-- Commit 103: refactor: Simplify conditional statements on 2025-02-27 16:11:37 -->
 <!-- Commit 104: fix: Resolve bug in model training loop on 2025-02-27 10:54:42 -->
+<!-- Commit 106: refactor: Improve code readability and structure on 2025-02-27 15:37:30 -->
