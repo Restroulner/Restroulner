@@ -853,3 +853,4 @@
 <!-- Commit 118: refactor: Improve code readability and structure on 2025-02-21 10:12:49 -->
 <!-- Commit 119: docs: Generate Sphinx documentation on 2025-02-24 17:32:31 -->
 <!-- Commit 121: perf: Optimize data loading performance on 2025-02-27 12:29:50 -->
+<!-- Commit 122: refactor: Simplify conditional statements on 2025-02-28 12:31:00 -->
