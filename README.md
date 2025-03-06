@@ -490,3 +490,4 @@
 <!-- Commit 113: style: Format code according to PEP8 on 2025-03-04 16:18:04 -->
 <!-- Commit 114: chore: Update dependencies on 2025-03-05 10:19:02 -->
 <!-- Commit 116: feat: Add support for new model architecture on 2025-03-06 11:49:10 -->
+<!-- Commit 117: refactor: Extract common logic into helper function on 2025-03-06 13:27:26 -->
