@@ -496,3 +496,4 @@
 <!-- Commit 121: refactor: Decouple modules on 2025-03-13 16:14:48 -->
 <!-- Commit 122: test: Improve test coverage on 2025-03-14 13:18:38 -->
 <!-- Commit 123: refactor: Decouple modules on 2025-03-19 14:10:58 -->
+<!-- Commit 124: refactor: Improve code readability and structure on 2025-03-19 17:13:26 -->
