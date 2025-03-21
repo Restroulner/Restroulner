@@ -125,3 +125,4 @@
 <!-- Commit 117: refactor: Decouple modules on 2025-03-14 13:44:41 -->
 <!-- Commit 118: refactor: Simplify conditional statements on 2025-03-14 15:22:41 -->
 <!-- Commit 119: test: Add unit tests for new module on 2025-03-18 11:37:48 -->
+<!-- Commit 121: fix: Correct off-by-one error in indexing on 2025-03-21 17:09:33 -->
