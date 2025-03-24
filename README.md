@@ -864,3 +864,4 @@
 <!-- Commit 132: refactor: Extract common logic into helper function on 2025-03-17 12:07:27 -->
 <!-- Commit 133: docs: Generate Sphinx documentation on 2025-03-19 15:33:54 -->
 <!-- Commit 134: docs: Clarify installation instructions on 2025-03-21 15:24:30 -->
+<!-- Commit 136: docs: Clarify installation instructions on 2025-03-24 09:08:21 -->
