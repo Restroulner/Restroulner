@@ -1188,3 +1188,4 @@
 <!-- Commit 83: style: Adhere to linter rules on 2025-03-19 15:26:10 -->
 <!-- Commit 84: docs: Update README with usage examples on 2025-03-20 16:56:01 -->
 <!-- Commit 86: test: Add integration tests on 2025-03-21 11:44:52 -->
+<!-- Commit 87: fix: Prevent potential race condition on 2025-03-24 13:48:48 -->
