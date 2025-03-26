@@ -866,3 +866,4 @@
 <!-- Commit 134: docs: Clarify installation instructions on 2025-03-21 15:24:30 -->
 <!-- Commit 136: docs: Clarify installation instructions on 2025-03-24 09:08:21 -->
 <!-- Commit 137: docs: Clarify installation instructions on 2025-03-25 16:35:53 -->
+<!-- Commit 138: docs: Generate Sphinx documentation on 2025-03-26 16:59:28 -->
