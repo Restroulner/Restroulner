@@ -868,3 +868,4 @@
 <!-- Commit 137: docs: Clarify installation instructions on 2025-03-25 16:35:53 -->
 <!-- Commit 138: docs: Generate Sphinx documentation on 2025-03-26 16:59:28 -->
 <!-- Commit 139: fix: Prevent potential race condition on 2025-03-27 11:18:10 -->
+<!-- Commit 141: docs: Update README with usage examples on 2025-03-28 13:05:07 -->
