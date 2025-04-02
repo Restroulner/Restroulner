@@ -139,3 +139,4 @@
 <!-- Commit 134: feat: Implement new evaluation metric on 2025-03-31 12:13:46 -->
 <!-- Commit 136: refactor: Extract common logic into helper function on 2025-04-01 17:47:05 -->
 <!-- Commit 137: style: Format code according to PEP8 on 2025-04-01 13:30:21 -->
+<!-- Commit 138: docs: Add API documentation on 2025-04-02 10:36:04 -->
