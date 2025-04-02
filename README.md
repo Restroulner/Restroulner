@@ -141,3 +141,4 @@
 <!-- Commit 137: style: Format code according to PEP8 on 2025-04-01 13:30:21 -->
 <!-- Commit 138: docs: Add API documentation on 2025-04-02 10:36:04 -->
 <!-- Commit 139: fix: Resolve bug in model training loop on 2025-04-02 15:33:41 -->
+<!-- Commit 141: docs: Clarify installation instructions on 2025-04-02 11:23:39 -->
