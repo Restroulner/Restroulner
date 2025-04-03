@@ -499,3 +499,4 @@
 <!-- Commit 124: refactor: Improve code readability and structure on 2025-03-19 17:13:26 -->
 <!-- Commit 126: chore: Automate release process on 2025-03-31 14:06:08 -->
 <!-- Commit 127: docs: Update README with usage examples on 2025-04-02 09:33:16 -->
+<!-- Commit 128: test: Improve test coverage on 2025-04-03 10:35:57 -->
