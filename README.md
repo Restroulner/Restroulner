@@ -500,3 +500,4 @@
 <!-- Commit 126: chore: Automate release process on 2025-03-31 14:06:08 -->
 <!-- Commit 127: docs: Update README with usage examples on 2025-04-02 09:33:16 -->
 <!-- Commit 128: test: Improve test coverage on 2025-04-03 10:35:57 -->
+<!-- Commit 129: fix: Resolve bug in model training loop on 2025-04-04 10:02:35 -->
