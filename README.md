@@ -504,3 +504,4 @@
 <!-- Commit 131: chore: Update dependencies on 2025-04-07 17:01:10 -->
 <!-- Commit 132: refactor: Simplify conditional statements on 2025-04-07 10:03:34 -->
 <!-- Commit 133: feat: Integrate new data source on 2025-04-07 15:51:38 -->
+<!-- Commit 134: docs: Clarify installation instructions on 2025-04-08 15:04:59 -->
