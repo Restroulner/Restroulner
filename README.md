@@ -1199,3 +1199,4 @@
 <!-- Commit 97: refactor: Simplify conditional statements on 2025-04-03 11:03:01 -->
 <!-- Commit 98: chore: Configure CI/CD pipeline on 2025-04-03 10:48:42 -->
 <!-- Commit 99: chore: Upgrade Python version on 2025-04-07 12:55:53 -->
+<!-- Commit 101: refactor: Extract common logic into helper function on 2025-04-09 16:51:17 -->
