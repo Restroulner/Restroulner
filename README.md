@@ -878,3 +878,4 @@
 <!-- Commit 149: style: Clean up whitespace on 2025-04-09 12:07:00 -->
 <!-- Commit 151: style: Adhere to linter rules on 2025-04-10 12:38:43 -->
 <!-- Commit 152: feat: Implement new evaluation metric on 2025-04-10 14:08:15 -->
+<!-- Commit 153: docs: Clarify installation instructions on 2025-04-15 15:51:06 -->
