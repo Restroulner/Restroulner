@@ -515,3 +515,4 @@
 <!-- Commit 144: chore: Upgrade Python version on 2025-04-16 09:04:57 -->
 <!-- Commit 146: style: Adhere to linter rules on 2025-04-16 11:23:12 -->
 <!-- Commit 147: perf: Optimize data loading performance on 2025-04-17 15:52:19 -->
+<!-- Commit 148: docs: Clarify installation instructions on 2025-04-17 17:38:03 -->
