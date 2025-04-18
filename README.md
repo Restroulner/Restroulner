@@ -1207,3 +1207,4 @@
 <!-- Commit 107: perf: Reduce memory footprint on 2025-04-16 15:19:35 -->
 <!-- Commit 108: docs: Generate Sphinx documentation on 2025-04-17 12:08:22 -->
 <!-- Commit 109: test: Fix broken tests on 2025-04-17 15:08:52 -->
+<!-- Commit 111: fix: Correct off-by-one error in indexing on 2025-04-18 17:11:32 -->
