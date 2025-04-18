@@ -1209,3 +1209,4 @@
 <!-- Commit 109: test: Fix broken tests on 2025-04-17 15:08:52 -->
 <!-- Commit 111: fix: Correct off-by-one error in indexing on 2025-04-18 17:11:32 -->
 <!-- Commit 112: fix: Correct off-by-one error in indexing on 2025-04-18 17:08:03 -->
+<!-- Commit 113: docs: Update README with usage examples on 2025-04-18 17:57:27 -->
