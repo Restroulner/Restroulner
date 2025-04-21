@@ -154,3 +154,4 @@
 <!-- Commit 153: docs: Update README with usage examples on 2025-04-17 17:35:53 -->
 <!-- Commit 154: fix: Correct off-by-one error in indexing on 2025-04-17 15:41:33 -->
 <!-- Commit 156: docs: Generate Sphinx documentation on 2025-04-18 10:44:24 -->
+<!-- Commit 157: test: Add integration tests on 2025-04-21 13:53:07 -->
