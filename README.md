@@ -1212,3 +1212,4 @@
 <!-- Commit 113: docs: Update README with usage examples on 2025-04-18 17:57:27 -->
 <!-- Commit 114: fix: Resolve bug in model training loop on 2025-04-21 13:43:02 -->
 <!-- Commit 116: refactor: Decouple modules on 2025-04-22 09:25:21 -->
+<!-- Commit 117: docs: Clarify installation instructions on 2025-04-22 11:22:56 -->
