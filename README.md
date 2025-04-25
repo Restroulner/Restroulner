@@ -160,3 +160,4 @@
 <!-- Commit 161: feat: Integrate new data source on 2025-04-22 10:41:11 -->
 <!-- Commit 162: chore: Automate release process on 2025-04-23 16:48:12 -->
 <!-- Commit 163: fix: Prevent potential race condition on 2025-04-23 17:29:21 -->
+<!-- Commit 164: docs: Clarify installation instructions on 2025-04-25 17:57:20 -->
