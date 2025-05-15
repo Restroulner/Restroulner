@@ -898,3 +898,4 @@
 <!-- Commit 174: test: Fix broken tests on 2025-05-09 12:21:49 -->
 <!-- Commit 176: refactor: Extract common logic into helper function on 2025-05-14 11:11:24 -->
 <!-- Commit 177: test: Fix broken tests on 2025-05-14 13:12:10 -->
+<!-- Commit 178: docs: Add API documentation on 2025-05-15 16:46:13 -->
