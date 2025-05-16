@@ -184,3 +184,4 @@
 <!-- Commit 191: test: Fix broken tests on 2025-05-15 17:07:39 -->
 <!-- Commit 192: test: Add integration tests on 2025-05-15 11:54:50 -->
 <!-- Commit 193: test: Add integration tests on 2025-05-16 12:45:37 -->
+<!-- Commit 194: fix: Correct off-by-one error in indexing on 2025-05-16 15:03:12 -->
