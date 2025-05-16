@@ -536,3 +536,4 @@
 <!-- Commit 171: test: Improve test coverage on 2025-05-12 13:31:36 -->
 <!-- Commit 172: docs: Add API documentation on 2025-05-13 17:01:06 -->
 <!-- Commit 173: fix: Prevent potential race condition on 2025-05-15 11:24:47 -->
+<!-- Commit 174: fix: Correct off-by-one error in indexing on 2025-05-16 09:40:47 -->
