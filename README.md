@@ -539,3 +539,4 @@
 <!-- Commit 174: fix: Correct off-by-one error in indexing on 2025-05-16 09:40:47 -->
 <!-- Commit 176: refactor: Extract common logic into helper function on 2025-05-20 10:06:12 -->
 <!-- Commit 177: fix: Handle edge cases in input validation on 2025-05-20 11:43:36 -->
+<!-- Commit 178: docs: Clarify installation instructions on 2025-05-20 16:37:09 -->
