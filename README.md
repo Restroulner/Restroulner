@@ -1239,3 +1239,4 @@
 <!-- Commit 147: chore: Automate release process on 2025-05-22 17:18:50 -->
 <!-- Commit 148: chore: Update dependencies on 2025-05-22 13:19:07 -->
 <!-- Commit 149: test: Improve test coverage on 2025-05-22 10:59:02 -->
+<!-- Commit 151: docs: Update README with usage examples on 2025-05-23 16:01:24 -->
