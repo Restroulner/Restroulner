@@ -190,3 +190,4 @@
 <!-- Commit 198: fix: Prevent potential race condition on 2025-05-21 14:36:58 -->
 <!-- Commit 199: test: Fix broken tests on 2025-05-22 09:53:35 -->
 <!-- Commit 201: refactor: Extract common logic into helper function on 2025-05-23 16:26:39 -->
+<!-- Commit 202: test: Add integration tests on 2025-05-26 10:55:08 -->
