@@ -194,3 +194,4 @@
 <!-- Commit 203: docs: Clarify installation instructions on 2025-05-26 11:01:21 -->
 <!-- Commit 204: refactor: Extract common logic into helper function on 2025-05-26 14:38:15 -->
 <!-- Commit 206: docs: Add API documentation on 2025-05-28 09:08:42 -->
+<!-- Commit 207: perf: Reduce memory footprint on 2025-05-29 15:31:33 -->
