@@ -546,3 +546,4 @@
 <!-- Commit 183: refactor: Simplify conditional statements on 2025-05-28 15:43:43 -->
 <!-- Commit 184: test: Add unit tests for new module on 2025-05-30 10:28:49 -->
 <!-- Commit 186: fix: Resolve bug in model training loop on 2025-06-03 16:24:36 -->
+<!-- Commit 187: docs: Add API documentation on 2025-06-04 17:58:54 -->
