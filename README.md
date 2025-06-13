@@ -916,3 +916,4 @@
 <!-- Commit 197: docs: Add API documentation on 2025-06-05 09:50:36 -->
 <!-- Commit 198: docs: Update README with usage examples on 2025-06-05 14:07:26 -->
 <!-- Commit 199: docs: Clarify installation instructions on 2025-06-10 15:23:39 -->
+<!-- Commit 201: refactor: Simplify conditional statements on 2025-06-13 16:01:59 -->
