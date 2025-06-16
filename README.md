@@ -554,3 +554,4 @@
 <!-- Commit 193: style: Adhere to linter rules on 2025-06-13 16:59:34 -->
 <!-- Commit 194: docs: Update README with usage examples on 2025-06-13 17:52:31 -->
 <!-- Commit 196: refactor: Extract common logic into helper function on 2025-06-16 17:27:51 -->
+<!-- Commit 197: test: Improve test coverage on 2025-06-16 13:33:31 -->
