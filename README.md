@@ -202,3 +202,4 @@
 <!-- Commit 213: feat: Add support for new model architecture on 2025-06-10 11:48:15 -->
 <!-- Commit 214: feat: Implement new evaluation metric on 2025-06-11 14:34:34 -->
 <!-- Commit 216: docs: Update README with usage examples on 2025-06-13 11:48:10 -->
+<!-- Commit 217: refactor: Extract common logic into helper function on 2025-06-17 11:31:49 -->
