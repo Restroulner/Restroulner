@@ -203,3 +203,4 @@
 <!-- Commit 214: feat: Implement new evaluation metric on 2025-06-11 14:34:34 -->
 <!-- Commit 216: docs: Update README with usage examples on 2025-06-13 11:48:10 -->
 <!-- Commit 217: refactor: Extract common logic into helper function on 2025-06-17 11:31:49 -->
+<!-- Commit 218: perf: Reduce memory footprint on 2025-06-17 15:54:37 -->
