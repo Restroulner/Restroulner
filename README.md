@@ -1256,3 +1256,4 @@
 <!-- Commit 168: docs: Update README with usage examples on 2025-06-12 14:14:47 -->
 <!-- Commit 169: refactor: Extract common logic into helper function on 2025-06-13 17:11:05 -->
 <!-- Commit 171: fix: Correct off-by-one error in indexing on 2025-06-16 15:17:54 -->
+<!-- Commit 172: refactor: Simplify conditional statements on 2025-06-18 15:31:47 -->
