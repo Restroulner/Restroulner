@@ -1260,3 +1260,4 @@
 <!-- Commit 173: feat: Add support for new model architecture on 2025-06-19 10:06:10 -->
 <!-- Commit 174: feat: Add new feature for data processing on 2025-06-20 14:30:00 -->
 <!-- Commit 176: fix: Correct off-by-one error in indexing on 2025-06-24 13:36:40 -->
+<!-- Commit 177: docs: Clarify installation instructions on 2025-06-24 09:46:25 -->
