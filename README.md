@@ -218,3 +218,4 @@
 <!-- Commit 233: docs: Add API documentation on 2025-07-01 17:09:32 -->
 <!-- Commit 234: chore: Automate release process on 2025-07-01 13:27:45 -->
 <!-- Commit 236: chore: Update dependencies on 2025-07-02 10:14:13 -->
+<!-- Commit 237: refactor: Extract common logic into helper function on 2025-07-02 10:47:17 -->
