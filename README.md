@@ -571,3 +571,4 @@
 <!-- Commit 214: docs: Clarify installation instructions on 2025-07-01 11:23:49 -->
 <!-- Commit 216: style: Format code according to PEP8 on 2025-07-01 10:52:42 -->
 <!-- Commit 217: fix: Resolve bug in model training loop on 2025-07-02 16:29:37 -->
+<!-- Commit 218: refactor: Simplify conditional statements on 2025-07-02 12:29:16 -->
