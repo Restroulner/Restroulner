@@ -1265,3 +1265,4 @@
 <!-- Commit 179: style: Format code according to PEP8 on 2025-06-27 11:29:56 -->
 <!-- Commit 181: test: Add unit tests for new module on 2025-07-01 11:31:18 -->
 <!-- Commit 182: feat: Add support for new model architecture on 2025-07-01 10:25:09 -->
+<!-- Commit 183: docs: Update README with usage examples on 2025-07-02 12:44:17 -->
