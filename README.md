@@ -220,3 +220,4 @@
 <!-- Commit 236: chore: Update dependencies on 2025-07-02 10:14:13 -->
 <!-- Commit 237: refactor: Extract common logic into helper function on 2025-07-02 10:47:17 -->
 <!-- Commit 238: refactor: Improve code readability and structure on 2025-07-03 14:39:28 -->
+<!-- Commit 239: refactor: Simplify conditional statements on 2025-07-03 14:52:28 -->
