@@ -929,3 +929,4 @@
 <!-- Commit 213: feat: Add new feature for data processing on 2025-07-01 16:49:18 -->
 <!-- Commit 214: refactor: Decouple modules on 2025-07-01 10:20:56 -->
 <!-- Commit 216: chore: Update dependencies on 2025-07-07 12:27:34 -->
+<!-- Commit 217: docs: Clarify installation instructions on 2025-07-08 16:15:01 -->
