@@ -930,3 +930,4 @@
 <!-- Commit 214: refactor: Decouple modules on 2025-07-01 10:20:56 -->
 <!-- Commit 216: chore: Update dependencies on 2025-07-07 12:27:34 -->
 <!-- Commit 217: docs: Clarify installation instructions on 2025-07-08 16:15:01 -->
+<!-- Commit 218: fix: Correct off-by-one error in indexing on 2025-07-08 14:27:27 -->
