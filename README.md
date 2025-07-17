@@ -580,3 +580,4 @@
 <!-- Commit 226: style: Adhere to linter rules on 2025-07-14 15:49:30 -->
 <!-- Commit 227: docs: Clarify installation instructions on 2025-07-15 17:21:13 -->
 <!-- Commit 228: style: Clean up whitespace on 2025-07-15 16:28:19 -->
+<!-- Commit 229: docs: Generate Sphinx documentation on 2025-07-17 10:53:11 -->
