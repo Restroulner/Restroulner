@@ -582,3 +582,4 @@
 <!-- Commit 228: style: Clean up whitespace on 2025-07-15 16:28:19 -->
 <!-- Commit 229: docs: Generate Sphinx documentation on 2025-07-17 10:53:11 -->
 <!-- Commit 231: test: Fix broken tests on 2025-07-18 16:43:56 -->
+<!-- Commit 232: docs: Clarify installation instructions on 2025-07-18 12:08:02 -->
