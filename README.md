@@ -241,3 +241,4 @@
 <!-- Commit 262: chore: Upgrade Python version on 2025-07-23 09:02:18 -->
 <!-- Commit 263: fix: Resolve bug in model training loop on 2025-07-23 10:52:32 -->
 <!-- Commit 264: docs: Update README with usage examples on 2025-07-24 12:39:27 -->
+<!-- Commit 266: fix: Correct off-by-one error in indexing on 2025-07-25 16:19:22 -->
