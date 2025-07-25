@@ -242,3 +242,4 @@
 <!-- Commit 263: fix: Resolve bug in model training loop on 2025-07-23 10:52:32 -->
 <!-- Commit 264: docs: Update README with usage examples on 2025-07-24 12:39:27 -->
 <!-- Commit 266: fix: Correct off-by-one error in indexing on 2025-07-25 16:19:22 -->
+<!-- Commit 267: refactor: Decouple modules on 2025-07-25 17:59:27 -->
