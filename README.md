@@ -586,3 +586,4 @@
 <!-- Commit 233: feat: Implement new evaluation metric on 2025-07-22 17:51:17 -->
 <!-- Commit 234: test: Add unit tests for new module on 2025-07-22 09:12:05 -->
 <!-- Commit 236: docs: Clarify installation instructions on 2025-07-25 14:36:02 -->
+<!-- Commit 237: docs: Generate Sphinx documentation on 2025-07-29 17:57:26 -->
