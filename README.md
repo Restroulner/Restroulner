@@ -588,3 +588,4 @@
 <!-- Commit 236: docs: Clarify installation instructions on 2025-07-25 14:36:02 -->
 <!-- Commit 237: docs: Generate Sphinx documentation on 2025-07-29 17:57:26 -->
 <!-- Commit 238: style: Format code according to PEP8 on 2025-07-30 17:09:40 -->
+<!-- Commit 239: docs: Clarify installation instructions on 2025-07-30 16:53:31 -->
