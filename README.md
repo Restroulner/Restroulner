@@ -591,3 +591,4 @@
 <!-- Commit 239: docs: Clarify installation instructions on 2025-07-30 16:53:31 -->
 <!-- Commit 241: docs: Update README with usage examples on 2025-07-31 17:11:15 -->
 <!-- Commit 242: docs: Update README with usage examples on 2025-08-01 10:41:26 -->
+<!-- Commit 243: docs: Add API documentation on 2025-08-01 10:25:09 -->
