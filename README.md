@@ -952,3 +952,4 @@
 <!-- Commit 242: test: Improve test coverage on 2025-08-06 13:33:07 -->
 <!-- Commit 243: refactor: Improve code readability and structure on 2025-08-06 15:38:20 -->
 <!-- Commit 244: docs: Clarify installation instructions on 2025-08-07 13:26:35 -->
+<!-- Commit 246: fix: Correct off-by-one error in indexing on 2025-08-08 13:29:05 -->
