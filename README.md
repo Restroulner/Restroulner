@@ -593,3 +593,4 @@
 <!-- Commit 242: docs: Update README with usage examples on 2025-08-01 10:41:26 -->
 <!-- Commit 243: docs: Add API documentation on 2025-08-01 10:25:09 -->
 <!-- Commit 244: style: Adhere to linter rules on 2025-08-07 12:50:38 -->
+<!-- Commit 246: fix: Prevent potential race condition on 2025-08-08 10:31:58 -->
