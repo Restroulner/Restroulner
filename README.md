@@ -1287,3 +1287,4 @@
 <!-- Commit 207: refactor: Improve code readability and structure on 2025-08-04 14:45:14 -->
 <!-- Commit 208: perf: Parallelize computation on 2025-08-05 14:22:49 -->
 <!-- Commit 209: fix: Handle edge cases in input validation on 2025-08-06 14:13:22 -->
+<!-- Commit 211: docs: Clarify installation instructions on 2025-08-11 16:15:47 -->
