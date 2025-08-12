@@ -954,3 +954,4 @@
 <!-- Commit 244: docs: Clarify installation instructions on 2025-08-07 13:26:35 -->
 <!-- Commit 246: fix: Correct off-by-one error in indexing on 2025-08-08 13:29:05 -->
 <!-- Commit 247: docs: Update README with usage examples on 2025-08-11 16:49:17 -->
+<!-- Commit 248: docs: Clarify installation instructions on 2025-08-12 12:33:18 -->
