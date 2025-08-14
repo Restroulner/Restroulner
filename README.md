@@ -1290,3 +1290,4 @@
 <!-- Commit 211: docs: Clarify installation instructions on 2025-08-11 16:15:47 -->
 <!-- Commit 212: test: Improve test coverage on 2025-08-12 11:19:32 -->
 <!-- Commit 213: test: Add unit tests for new module on 2025-08-12 17:42:54 -->
+<!-- Commit 214: fix: Correct off-by-one error in indexing on 2025-08-14 15:38:42 -->
