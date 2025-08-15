@@ -957,3 +957,4 @@
 <!-- Commit 248: docs: Clarify installation instructions on 2025-08-12 12:33:18 -->
 <!-- Commit 249: docs: Add API documentation on 2025-08-12 14:50:15 -->
 <!-- Commit 251: chore: Upgrade Python version on 2025-08-14 15:32:46 -->
+<!-- Commit 252: docs: Update README with usage examples on 2025-08-15 16:29:09 -->
