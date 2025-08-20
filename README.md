@@ -960,3 +960,4 @@
 <!-- Commit 252: docs: Update README with usage examples on 2025-08-15 16:29:09 -->
 <!-- Commit 253: test: Add integration tests on 2025-08-15 13:37:10 -->
 <!-- Commit 254: chore: Upgrade Python version on 2025-08-19 15:38:16 -->
+<!-- Commit 256: test: Improve test coverage on 2025-08-20 12:48:19 -->
