@@ -1295,3 +1295,4 @@
 <!-- Commit 217: perf: Optimize data loading performance on 2025-08-18 15:04:42 -->
 <!-- Commit 218: docs: Generate Sphinx documentation on 2025-08-19 09:41:59 -->
 <!-- Commit 219: feat: Add support for new model architecture on 2025-08-19 09:22:38 -->
+<!-- Commit 221: refactor: Extract common logic into helper function on 2025-08-25 15:51:00 -->
