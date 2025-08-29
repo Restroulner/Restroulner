@@ -261,3 +261,4 @@
 <!-- Commit 287: style: Format code according to PEP8 on 2025-08-22 13:16:23 -->
 <!-- Commit 288: style: Clean up whitespace on 2025-08-25 10:08:53 -->
 <!-- Commit 289: fix: Correct off-by-one error in indexing on 2025-08-25 10:26:24 -->
+<!-- Commit 291: refactor: Extract common logic into helper function on 2025-08-29 14:00:02 -->
