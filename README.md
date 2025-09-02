@@ -610,3 +610,4 @@
 <!-- Commit 263: chore: Upgrade Python version on 2025-08-28 10:06:07 -->
 <!-- Commit 264: test: Fix broken tests on 2025-08-28 14:47:54 -->
 <!-- Commit 266: feat: Implement new evaluation metric on 2025-09-01 14:04:11 -->
+<!-- Commit 267: docs: Generate Sphinx documentation on 2025-09-02 17:59:37 -->
