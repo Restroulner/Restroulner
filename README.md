@@ -263,3 +263,4 @@
 <!-- Commit 289: fix: Correct off-by-one error in indexing on 2025-08-25 10:26:24 -->
 <!-- Commit 291: refactor: Extract common logic into helper function on 2025-08-29 14:00:02 -->
 <!-- Commit 292: docs: Generate Sphinx documentation on 2025-08-29 15:31:16 -->
+<!-- Commit 293: docs: Clarify installation instructions on 2025-09-02 15:07:29 -->
