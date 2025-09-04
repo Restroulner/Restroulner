@@ -968,3 +968,4 @@
 <!-- Commit 262: fix: Resolve bug in model training loop on 2025-08-28 12:59:53 -->
 <!-- Commit 263: chore: Update dependencies on 2025-09-01 09:00:57 -->
 <!-- Commit 264: refactor: Simplify conditional statements on 2025-09-02 11:42:47 -->
+<!-- Commit 266: docs: Add API documentation on 2025-09-04 12:47:28 -->
