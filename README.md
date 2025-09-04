@@ -970,3 +970,4 @@
 <!-- Commit 264: refactor: Simplify conditional statements on 2025-09-02 11:42:47 -->
 <!-- Commit 266: docs: Add API documentation on 2025-09-04 12:47:28 -->
 <!-- Commit 267: docs: Update README with usage examples on 2025-09-04 17:36:12 -->
+<!-- Commit 268: chore: Automate release process on 2025-09-04 17:08:46 -->
