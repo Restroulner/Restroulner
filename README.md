@@ -269,3 +269,4 @@
 <!-- Commit 297: docs: Update README with usage examples on 2025-09-10 15:16:08 -->
 <!-- Commit 298: chore: Update dependencies on 2025-09-10 10:19:28 -->
 <!-- Commit 299: fix: Prevent potential race condition on 2025-09-11 15:55:47 -->
+<!-- Commit 301: style: Format code according to PEP8 on 2025-09-12 11:43:43 -->
