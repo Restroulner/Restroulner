@@ -974,3 +974,4 @@
 <!-- Commit 269: chore: Automate release process on 2025-09-05 09:25:03 -->
 <!-- Commit 271: chore: Update dependencies on 2025-09-12 14:58:54 -->
 <!-- Commit 272: perf: Parallelize computation on 2025-09-15 09:17:38 -->
+<!-- Commit 273: refactor: Extract common logic into helper function on 2025-09-15 09:21:25 -->
