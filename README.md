@@ -625,3 +625,4 @@
 <!-- Commit 282: docs: Add API documentation on 2025-09-17 14:34:15 -->
 <!-- Commit 283: test: Fix broken tests on 2025-09-17 16:59:18 -->
 <!-- Commit 284: refactor: Extract common logic into helper function on 2025-09-19 16:38:17 -->
+<!-- Commit 286: feat: Add support for new model architecture on 2025-09-22 09:33:35 -->
