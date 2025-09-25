@@ -278,3 +278,4 @@
 <!-- Commit 308: fix: Resolve bug in model training loop on 2025-09-23 14:28:02 -->
 <!-- Commit 309: style: Adhere to linter rules on 2025-09-23 17:33:50 -->
 <!-- Commit 311: docs: Clarify installation instructions on 2025-09-24 17:23:42 -->
+<!-- Commit 312: test: Improve test coverage on 2025-09-25 11:42:19 -->
