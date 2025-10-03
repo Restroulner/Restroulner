@@ -991,3 +991,4 @@
 <!-- Commit 291: refactor: Extract common logic into helper function on 2025-09-29 15:00:22 -->
 <!-- Commit 292: chore: Automate release process on 2025-10-01 11:10:09 -->
 <!-- Commit 293: chore: Update dependencies on 2025-10-03 12:14:46 -->
+<!-- Commit 294: docs: Generate Sphinx documentation on 2025-10-03 12:25:26 -->
