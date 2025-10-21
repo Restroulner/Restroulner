@@ -1000,3 +1000,4 @@
 <!-- Commit 302: style: Clean up whitespace on 2025-10-17 09:59:58 -->
 <!-- Commit 303: perf: Parallelize computation on 2025-10-17 17:45:57 -->
 <!-- Commit 304: feat: Implement new evaluation metric on 2025-10-17 10:17:07 -->
+<!-- Commit 306: docs: Clarify installation instructions on 2025-10-21 14:13:40 -->
