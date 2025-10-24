@@ -1002,3 +1002,4 @@
 <!-- Commit 304: feat: Implement new evaluation metric on 2025-10-17 10:17:07 -->
 <!-- Commit 306: docs: Clarify installation instructions on 2025-10-21 14:13:40 -->
 <!-- Commit 307: fix: Handle edge cases in input validation on 2025-10-21 14:04:12 -->
+<!-- Commit 308: chore: Automate release process on 2025-10-24 10:55:38 -->
