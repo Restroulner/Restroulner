@@ -647,3 +647,4 @@
 <!-- Commit 309: feat: Add support for new model architecture on 2025-10-24 16:42:30 -->
 <!-- Commit 311: feat: Add new feature for data processing on 2025-10-28 13:30:11 -->
 <!-- Commit 312: docs: Update README with usage examples on 2025-10-29 09:38:11 -->
+<!-- Commit 313: refactor: Simplify conditional statements on 2025-10-30 09:30:27 -->
