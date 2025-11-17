@@ -1022,3 +1022,4 @@
 <!-- Commit 329: feat: Implement new evaluation metric on 2025-11-11 16:49:03 -->
 <!-- Commit 331: fix: Correct off-by-one error in indexing on 2025-11-13 10:46:18 -->
 <!-- Commit 332: test: Fix broken tests on 2025-11-13 11:30:29 -->
+<!-- Commit 333: docs: Generate Sphinx documentation on 2025-11-17 16:01:13 -->
