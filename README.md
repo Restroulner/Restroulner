@@ -663,3 +663,4 @@
 <!-- Commit 329: fix: Prevent potential race condition on 2025-11-14 16:17:23 -->
 <!-- Commit 331: refactor: Improve code readability and structure on 2025-11-17 11:22:01 -->
 <!-- Commit 332: perf: Reduce memory footprint on 2025-11-17 13:46:52 -->
+<!-- Commit 333: docs: Update README with usage examples on 2025-11-19 12:50:03 -->
