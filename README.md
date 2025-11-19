@@ -1025,3 +1025,4 @@
 <!-- Commit 333: docs: Generate Sphinx documentation on 2025-11-17 16:01:13 -->
 <!-- Commit 334: docs: Clarify installation instructions on 2025-11-17 11:49:09 -->
 <!-- Commit 336: fix: Handle edge cases in input validation on 2025-11-18 17:05:00 -->
+<!-- Commit 337: feat: Add support for new model architecture on 2025-11-19 11:22:36 -->
