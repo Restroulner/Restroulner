@@ -315,3 +315,4 @@
 <!-- Commit 354: feat: Add new feature for data processing on 2025-11-19 11:29:16 -->
 <!-- Commit 356: style: Format code according to PEP8 on 2025-11-20 15:34:20 -->
 <!-- Commit 357: fix: Handle edge cases in input validation on 2025-11-20 12:45:36 -->
+<!-- Commit 358: docs: Update README with usage examples on 2025-11-21 17:17:13 -->
