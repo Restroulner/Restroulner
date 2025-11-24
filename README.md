@@ -1026,3 +1026,4 @@
 <!-- Commit 334: docs: Clarify installation instructions on 2025-11-17 11:49:09 -->
 <!-- Commit 336: fix: Handle edge cases in input validation on 2025-11-18 17:05:00 -->
 <!-- Commit 337: feat: Add support for new model architecture on 2025-11-19 11:22:36 -->
+<!-- Commit 338: refactor: Extract common logic into helper function on 2025-11-24 12:24:02 -->
