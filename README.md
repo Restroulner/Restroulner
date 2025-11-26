@@ -1028,3 +1028,4 @@
 <!-- Commit 337: feat: Add support for new model architecture on 2025-11-19 11:22:36 -->
 <!-- Commit 338: refactor: Extract common logic into helper function on 2025-11-24 12:24:02 -->
 <!-- Commit 339: style: Adhere to linter rules on 2025-11-25 15:01:22 -->
+<!-- Commit 341: docs: Update README with usage examples on 2025-11-26 09:22:21 -->
