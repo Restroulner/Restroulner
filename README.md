@@ -668,3 +668,4 @@
 <!-- Commit 336: feat: Add support for new model architecture on 2025-11-20 16:38:47 -->
 <!-- Commit 337: feat: Integrate new data source on 2025-11-24 09:38:54 -->
 <!-- Commit 338: feat: Integrate new data source on 2025-11-25 12:41:15 -->
+<!-- Commit 339: refactor: Extract common logic into helper function on 2025-11-26 15:23:53 -->
