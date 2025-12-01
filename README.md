@@ -320,3 +320,4 @@
 <!-- Commit 361: test: Add unit tests for new module on 2025-11-24 12:36:29 -->
 <!-- Commit 362: chore: Configure CI/CD pipeline on 2025-11-25 11:54:16 -->
 <!-- Commit 363: feat: Add support for new model architecture on 2025-11-28 10:01:02 -->
+<!-- Commit 364: docs: Clarify installation instructions on 2025-12-01 12:28:34 -->
