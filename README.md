@@ -322,3 +322,4 @@
 <!-- Commit 363: feat: Add support for new model architecture on 2025-11-28 10:01:02 -->
 <!-- Commit 364: docs: Clarify installation instructions on 2025-12-01 12:28:34 -->
 <!-- Commit 366: perf: Parallelize computation on 2025-12-01 09:10:14 -->
+<!-- Commit 367: test: Add integration tests on 2025-12-01 12:49:34 -->
