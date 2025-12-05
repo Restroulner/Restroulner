@@ -674,3 +674,4 @@
 <!-- Commit 343: perf: Reduce memory footprint on 2025-12-02 17:19:00 -->
 <!-- Commit 344: refactor: Simplify conditional statements on 2025-12-02 16:26:30 -->
 <!-- Commit 346: feat: Add support for new model architecture on 2025-12-04 14:49:08 -->
+<!-- Commit 347: docs: Clarify installation instructions on 2025-12-05 16:41:21 -->
