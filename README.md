@@ -1037,3 +1037,4 @@
 <!-- Commit 348: refactor: Decouple modules on 2025-12-03 14:47:05 -->
 <!-- Commit 349: perf: Optimize data loading performance on 2025-12-03 13:46:51 -->
 <!-- Commit 351: feat: Implement new evaluation metric on 2025-12-05 10:13:59 -->
+<!-- Commit 352: docs: Generate Sphinx documentation on 2025-12-05 13:58:24 -->
