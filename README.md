@@ -329,3 +329,4 @@
 <!-- Commit 372: fix: Resolve bug in model training loop on 2025-12-09 09:40:35 -->
 <!-- Commit 373: refactor: Decouple modules on 2025-12-11 15:10:15 -->
 <!-- Commit 374: feat: Add new feature for data processing on 2025-12-11 13:27:16 -->
+<!-- Commit 376: docs: Clarify installation instructions on 2025-12-12 13:16:54 -->
