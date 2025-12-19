@@ -1359,3 +1359,4 @@
 <!-- Commit 297: test: Add integration tests on 2025-12-16 10:51:36 -->
 <!-- Commit 298: test: Add integration tests on 2025-12-17 09:56:32 -->
 <!-- Commit 299: chore: Automate release process on 2025-12-18 09:51:31 -->
+<!-- Commit 301: docs: Update README with usage examples on 2025-12-19 13:52:13 -->
