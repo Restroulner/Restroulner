@@ -686,3 +686,4 @@
 <!-- Commit 358: test: Add integration tests on 2025-12-19 17:31:11 -->
 <!-- Commit 359: refactor: Extract common logic into helper function on 2025-12-19 09:45:40 -->
 <!-- Commit 361: perf: Parallelize computation on 2025-12-19 14:14:58 -->
+<!-- Commit 362: docs: Update README with usage examples on 2025-12-22 17:20:24 -->
