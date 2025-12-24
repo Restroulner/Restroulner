@@ -1055,3 +1055,4 @@
 <!-- Commit 371: docs: Clarify installation instructions on 2025-12-23 14:57:51 -->
 <!-- Commit 372: feat: Add new feature for data processing on 2025-12-24 17:39:29 -->
 <!-- Commit 373: chore: Automate release process on 2025-12-24 16:22:06 -->
+<!-- Commit 374: refactor: Extract common logic into helper function on 2025-12-24 09:46:27 -->
