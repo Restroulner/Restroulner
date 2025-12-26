@@ -690,3 +690,4 @@
 <!-- Commit 363: test: Fix broken tests on 2025-12-22 10:45:50 -->
 <!-- Commit 364: style: Clean up whitespace on 2025-12-22 12:22:29 -->
 <!-- Commit 366: fix: Resolve bug in model training loop on 2025-12-26 12:03:45 -->
+<!-- Commit 367: docs: Clarify installation instructions on 2025-12-26 09:36:13 -->
