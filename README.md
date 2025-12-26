@@ -689,3 +689,4 @@
 <!-- Commit 362: docs: Update README with usage examples on 2025-12-22 17:20:24 -->
 <!-- Commit 363: test: Fix broken tests on 2025-12-22 10:45:50 -->
 <!-- Commit 364: style: Clean up whitespace on 2025-12-22 12:22:29 -->
+<!-- Commit 366: fix: Resolve bug in model training loop on 2025-12-26 12:03:45 -->
