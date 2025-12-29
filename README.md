@@ -1362,3 +1362,4 @@
 <!-- Commit 301: docs: Update README with usage examples on 2025-12-19 13:52:13 -->
 <!-- Commit 302: feat: Implement new evaluation metric on 2025-12-22 14:25:27 -->
 <!-- Commit 303: style: Adhere to linter rules on 2025-12-29 12:30:46 -->
+<!-- Commit 304: test: Add integration tests on 2025-12-29 16:08:28 -->
