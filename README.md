@@ -1058,3 +1058,4 @@
 <!-- Commit 374: refactor: Extract common logic into helper function on 2025-12-24 09:46:27 -->
 <!-- Commit 376: docs: Generate Sphinx documentation on 2025-12-29 09:17:46 -->
 <!-- Commit 377: style: Adhere to linter rules on 2025-12-29 14:58:03 -->
+<!-- Commit 378: docs: Generate Sphinx documentation on 2025-12-30 15:28:55 -->
