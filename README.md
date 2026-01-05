@@ -1365,3 +1365,4 @@
 <!-- Commit 304: test: Add integration tests on 2025-12-29 16:08:28 -->
 <!-- Commit 306: fix: Resolve bug in model training loop on 2026-01-02 10:45:17 -->
 <!-- Commit 307: feat: Implement new evaluation metric on 2026-01-02 11:03:57 -->
+<!-- Commit 308: docs: Update README with usage examples on 2026-01-05 17:29:42 -->
