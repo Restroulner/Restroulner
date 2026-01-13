@@ -1067,3 +1067,4 @@
 <!-- Commit 386: chore: Automate release process on 2026-01-09 15:23:26 -->
 <!-- Commit 387: docs: Update README with usage examples on 2026-01-12 12:34:23 -->
 <!-- Commit 388: fix: Resolve bug in model training loop on 2026-01-13 15:46:31 -->
+<!-- Commit 389: refactor: Simplify conditional statements on 2026-01-13 16:55:45 -->
