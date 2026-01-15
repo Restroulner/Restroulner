@@ -347,3 +347,4 @@
 <!-- Commit 394: test: Fix broken tests on 2026-01-07 09:16:30 -->
 <!-- Commit 396: chore: Automate release process on 2026-01-09 15:51:02 -->
 <!-- Commit 397: refactor: Improve code readability and structure on 2026-01-09 12:19:44 -->
+<!-- Commit 398: docs: Add API documentation on 2026-01-15 12:39:18 -->
