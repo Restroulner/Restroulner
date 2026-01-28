@@ -712,3 +712,4 @@
 <!-- Commit 391: feat: Add support for new model architecture on 2026-01-21 12:16:03 -->
 <!-- Commit 392: refactor: Improve code readability and structure on 2026-01-26 17:40:44 -->
 <!-- Commit 393: docs: Update README with usage examples on 2026-01-27 16:37:14 -->
+<!-- Commit 394: chore: Upgrade Python version on 2026-01-28 16:40:51 -->
