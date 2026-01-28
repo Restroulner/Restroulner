@@ -354,3 +354,4 @@
 <!-- Commit 403: fix: Handle edge cases in input validation on 2026-01-22 17:16:16 -->
 <!-- Commit 404: feat: Add support for new model architecture on 2026-01-23 12:51:53 -->
 <!-- Commit 406: fix: Correct off-by-one error in indexing on 2026-01-26 11:40:36 -->
+<!-- Commit 407: refactor: Improve code readability and structure on 2026-01-28 12:28:57 -->
