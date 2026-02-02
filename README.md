@@ -357,3 +357,4 @@
 <!-- Commit 407: refactor: Improve code readability and structure on 2026-01-28 12:28:57 -->
 <!-- Commit 408: perf: Reduce memory footprint on 2026-01-30 16:42:06 -->
 <!-- Commit 409: chore: Update dependencies on 2026-02-02 12:21:12 -->
+<!-- Commit 411: docs: Update README with usage examples on 2026-02-02 16:58:32 -->
