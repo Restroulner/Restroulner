@@ -1380,3 +1380,4 @@
 <!-- Commit 323: feat: Add support for new model architecture on 2026-01-27 09:56:11 -->
 <!-- Commit 324: test: Add integration tests on 2026-01-28 12:57:21 -->
 <!-- Commit 326: refactor: Decouple modules on 2026-01-29 11:06:33 -->
+<!-- Commit 327: docs: Generate Sphinx documentation on 2026-02-04 16:21:05 -->
