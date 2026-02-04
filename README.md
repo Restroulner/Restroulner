@@ -358,3 +358,4 @@
 <!-- Commit 408: perf: Reduce memory footprint on 2026-01-30 16:42:06 -->
 <!-- Commit 409: chore: Update dependencies on 2026-02-02 12:21:12 -->
 <!-- Commit 411: docs: Update README with usage examples on 2026-02-02 16:58:32 -->
+<!-- Commit 412: refactor: Simplify conditional statements on 2026-02-04 14:17:42 -->
