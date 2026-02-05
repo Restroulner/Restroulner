@@ -720,3 +720,4 @@
 <!-- Commit 401: test: Add unit tests for new module on 2026-02-04 16:27:30 -->
 <!-- Commit 402: chore: Automate release process on 2026-02-04 16:00:27 -->
 <!-- Commit 403: chore: Upgrade Python version on 2026-02-05 10:49:44 -->
+<!-- Commit 404: docs: Add API documentation on 2026-02-05 16:38:55 -->
