@@ -1089,3 +1089,4 @@
 <!-- Commit 413: test: Add integration tests on 2026-02-17 14:32:30 -->
 <!-- Commit 414: feat: Add support for new model architecture on 2026-02-17 11:24:32 -->
 <!-- Commit 416: chore: Update dependencies on 2026-02-19 13:45:05 -->
+<!-- Commit 417: docs: Generate Sphinx documentation on 2026-02-19 11:24:37 -->
