@@ -373,3 +373,4 @@
 <!-- Commit 427: fix: Resolve bug in model training loop on 2026-02-17 12:37:16 -->
 <!-- Commit 428: fix: Handle edge cases in input validation on 2026-02-17 17:28:43 -->
 <!-- Commit 429: refactor: Decouple modules on 2026-02-17 09:19:06 -->
+<!-- Commit 431: docs: Generate Sphinx documentation on 2026-02-24 12:49:12 -->
