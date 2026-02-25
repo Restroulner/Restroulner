@@ -1390,3 +1390,4 @@
 <!-- Commit 336: chore: Update dependencies on 2026-02-18 11:54:27 -->
 <!-- Commit 337: test: Add integration tests on 2026-02-19 15:15:25 -->
 <!-- Commit 338: perf: Optimize data loading performance on 2026-02-24 10:01:29 -->
+<!-- Commit 339: fix: Correct off-by-one error in indexing on 2026-02-25 17:01:35 -->
