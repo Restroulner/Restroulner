@@ -1104,3 +1104,4 @@
 <!-- Commit 432: style: Format code according to PEP8 on 2026-02-27 15:22:18 -->
 <!-- Commit 433: fix: Prevent potential race condition on 2026-02-27 15:59:19 -->
 <!-- Commit 434: refactor: Simplify conditional statements on 2026-03-02 16:55:12 -->
+<!-- Commit 436: docs: Update README with usage examples on 2026-03-04 17:49:01 -->
