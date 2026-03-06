@@ -379,3 +379,4 @@
 <!-- Commit 434: docs: Add API documentation on 2026-03-02 16:00:52 -->
 <!-- Commit 436: perf: Reduce memory footprint on 2026-03-05 12:00:41 -->
 <!-- Commit 437: docs: Update README with usage examples on 2026-03-05 13:24:12 -->
+<!-- Commit 438: refactor: Improve code readability and structure on 2026-03-06 10:03:03 -->
