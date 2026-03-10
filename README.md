@@ -1399,3 +1399,4 @@
 <!-- Commit 347: feat: Add new feature for data processing on 2026-03-04 12:09:57 -->
 <!-- Commit 348: refactor: Decouple modules on 2026-03-05 17:17:55 -->
 <!-- Commit 349: perf: Reduce memory footprint on 2026-03-05 10:34:57 -->
+<!-- Commit 351: docs: Update README with usage examples on 2026-03-10 13:47:46 -->
