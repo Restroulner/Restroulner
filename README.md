@@ -1107,3 +1107,4 @@
 <!-- Commit 436: docs: Update README with usage examples on 2026-03-04 17:49:01 -->
 <!-- Commit 437: style: Format code according to PEP8 on 2026-03-04 15:07:00 -->
 <!-- Commit 438: style: Clean up whitespace on 2026-03-09 09:48:11 -->
+<!-- Commit 439: test: Improve test coverage on 2026-03-10 14:26:28 -->
