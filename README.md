@@ -739,3 +739,4 @@
 <!-- Commit 424: perf: Parallelize computation on 2026-03-03 09:12:02 -->
 <!-- Commit 426: docs: Add API documentation on 2026-03-04 10:32:37 -->
 <!-- Commit 427: test: Add integration tests on 2026-03-06 15:33:43 -->
+<!-- Commit 428: fix: Correct off-by-one error in indexing on 2026-03-10 17:21:42 -->
