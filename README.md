@@ -741,3 +741,4 @@
 <!-- Commit 427: test: Add integration tests on 2026-03-06 15:33:43 -->
 <!-- Commit 428: fix: Correct off-by-one error in indexing on 2026-03-10 17:21:42 -->
 <!-- Commit 429: chore: Configure CI/CD pipeline on 2026-03-10 09:11:14 -->
+<!-- Commit 431: docs: Update README with usage examples on 2026-03-11 15:13:32 -->
