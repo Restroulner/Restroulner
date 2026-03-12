@@ -1401,3 +1401,4 @@
 <!-- Commit 349: perf: Reduce memory footprint on 2026-03-05 10:34:57 -->
 <!-- Commit 351: docs: Update README with usage examples on 2026-03-10 13:47:46 -->
 <!-- Commit 352: fix: Correct off-by-one error in indexing on 2026-03-10 16:17:46 -->
+<!-- Commit 353: perf: Reduce memory footprint on 2026-03-12 10:48:48 -->
