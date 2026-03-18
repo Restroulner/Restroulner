@@ -389,3 +389,4 @@
 <!-- Commit 447: fix: Resolve bug in model training loop on 2026-03-16 12:57:49 -->
 <!-- Commit 448: style: Clean up whitespace on 2026-03-17 09:20:09 -->
 <!-- Commit 449: test: Add unit tests for new module on 2026-03-17 09:53:10 -->
+<!-- Commit 451: docs: Add API documentation on 2026-03-18 10:41:30 -->
