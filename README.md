@@ -391,3 +391,4 @@
 <!-- Commit 449: test: Add unit tests for new module on 2026-03-17 09:53:10 -->
 <!-- Commit 451: docs: Add API documentation on 2026-03-18 10:41:30 -->
 <!-- Commit 452: test: Fix broken tests on 2026-03-19 16:52:59 -->
+<!-- Commit 453: docs: Clarify installation instructions on 2026-03-19 14:30:25 -->
