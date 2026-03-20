@@ -392,3 +392,4 @@
 <!-- Commit 451: docs: Add API documentation on 2026-03-18 10:41:30 -->
 <!-- Commit 452: test: Fix broken tests on 2026-03-19 16:52:59 -->
 <!-- Commit 453: docs: Clarify installation instructions on 2026-03-19 14:30:25 -->
+<!-- Commit 454: refactor: Extract common logic into helper function on 2026-03-20 12:10:25 -->
