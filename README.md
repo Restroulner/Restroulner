@@ -753,3 +753,4 @@
 <!-- Commit 442: docs: Generate Sphinx documentation on 2026-03-19 12:55:23 -->
 <!-- Commit 443: chore: Automate release process on 2026-03-19 13:59:45 -->
 <!-- Commit 444: docs: Clarify installation instructions on 2026-03-20 12:29:08 -->
+<!-- Commit 446: refactor: Extract common logic into helper function on 2026-03-24 14:53:45 -->
