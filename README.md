@@ -755,3 +755,4 @@
 <!-- Commit 444: docs: Clarify installation instructions on 2026-03-20 12:29:08 -->
 <!-- Commit 446: refactor: Extract common logic into helper function on 2026-03-24 14:53:45 -->
 <!-- Commit 447: feat: Add support for new model architecture on 2026-03-24 12:35:35 -->
+<!-- Commit 448: docs: Update README with usage examples on 2026-03-25 10:35:02 -->
