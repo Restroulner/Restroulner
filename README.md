@@ -1118,3 +1118,4 @@
 <!-- Commit 449: docs: Add API documentation on 2026-03-18 17:03:44 -->
 <!-- Commit 451: refactor: Simplify conditional statements on 2026-03-20 16:51:53 -->
 <!-- Commit 452: docs: Update README with usage examples on 2026-03-23 13:48:31 -->
+<!-- Commit 453: test: Fix broken tests on 2026-03-25 09:53:00 -->
